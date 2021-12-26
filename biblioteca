@@ -1,0 +1,4 @@
+sprite = createSprite (x,y,ancho,alto);, sirve para diseñar un objeto y tenerlo como base para iniciar tus projectos adaskwsdfrjekadgtrdkcjfedclkfdsjkdfo
+createCanvas(600,200), sirve para generar el area de juego o los limites del juego afwdsdvred2q22q4q2erq2er3qwr3wedrqeadszc
+sprite.velocityX/Y = 0; sirve para saber a que direccion va ir el objeto señalado y la velocidad ya sea para arriba o la izquiera afsedvrfdftgredrfedrfdcvrfdcf XD
+frameCount: nos genera los fotogramas que vemos por segundo en la pantalla ya sea para el objetivo r3edrvdvftredcvfgbrfdcfgbedcfvgbsek 
